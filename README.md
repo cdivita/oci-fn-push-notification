@@ -44,7 +44,7 @@ An example of function's payload is the following:
         "title": "Hello",
         "body": "A message for you !!!"
     }
-}'
+}
 ```
 
 # Running the function
